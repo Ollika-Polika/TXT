@@ -2,3 +2,11 @@ employeeID 1
 name Bill
 salary 56000
 married true
+
+employeeID 2
+name Olli
+age 27
+animals 1
+salary 1000000
+
+
