@@ -1,0 +1,3 @@
+Bug report
+        id: 1,
+        title: "Chat - User cannot rename group conversation"
